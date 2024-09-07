@@ -5,10 +5,9 @@ Created with Game Maker Studio 2.
 
 ![Screenshot](https://github.com/timeblade0/storm_eagle/blob/main/screenshot.png)
 
-Controls  
-------------  
-Arrow Keys = Move  
-A = Shoot  
-Esc = Exit  
-F2 = Restart  
-Enter= Pause  
+# Controls  
+`Arrow Keys` = Move  
+`Space Bar` = Shoot  
+`Esc` = Exit  
+`F2` = Restart Game  
+`Enter` = Pause  
